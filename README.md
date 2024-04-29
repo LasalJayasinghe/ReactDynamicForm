@@ -9,22 +9,15 @@ This project is a dynamic form implementation using create-mf-app for micro-fron
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/LasalJayasinghe/JSON-Validator.git
+    git clone https://github.com/LasalJayasinghe/ReactDynamicForm.git
     ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd dynamicForm
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install
     ```
 
-4. Start the application:
+3. Start the application:
 
     ```bash
     npm start
